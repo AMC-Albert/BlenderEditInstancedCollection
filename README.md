@@ -11,7 +11,7 @@ Collection stages are isolated scenes that contain only the source collection fo
 
 ## Collection Staging Workspace
 
-This is the most important addition in terms of workflow. In the preferences of this add-on, you can set a dedicated workspace for staging and editing collections. In combination with pinning the staging scene to the workspace (which is activated automatically), you can preserve the viewport of your other workspaces, effectively separating it. This reduces disruption and facilitates a faster, cleaner workflow.
+This is the most important addition in terms of workflow. In the preferences of this add-on, you can set a dedicated workspace for staging and editing collections. In combination with pinning the staging scene to the workspace (which is activated automatically), you can preserve the viewport and original scene of your other workspaces, effectively separating it. This reduces disruption and facilitates a faster, cleaner workflow.
 
 Make sure the workspace that you type into the add-on preferences actually exists in the blend file/is spelled correctly.
 
