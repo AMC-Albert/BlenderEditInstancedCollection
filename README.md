@@ -1,3 +1,9 @@
+# DO NOT USE, CONTAINS LEAK THAT BLOATS SIZE OF YOUR BLEND FILE - see [this issue](https://projects.blender.org/blender/blender/issues/118642) for details
+
+I don't know when or if I will get around to fixing this, this addon is not part of my workflow any more - using linked libraries primarily instead.
+
+---
+
 # Blender "Edit Instanced Collection" Add-on
 This is a fork/rewrite of [SuperFLEB/BlenderEditCollectionAddon](https://github.com/SuperFLEB/BlenderEditCollectionAddon)
 
